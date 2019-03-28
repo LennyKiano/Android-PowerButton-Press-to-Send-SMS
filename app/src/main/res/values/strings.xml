@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PowerButtonDetectorDemo</string>
+    <string name="app_info">This is an SOS message alert app Demo to send an SOS message.Enter a number below that will
+        receive the message and press the power button 4 times within 4 seconds and the SOS will be sent. Make sure you
+        have airtime for this to work. Note that your phone will vibrate if the trigger was done properly.If no number was entered there is a default number already in place.
+    </string>
+    <string name="enter_number">Enter SOS Receiver Number</string>
+    <string name="register">Register</string>
+</resources>
